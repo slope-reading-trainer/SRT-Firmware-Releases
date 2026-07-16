@@ -6,6 +6,12 @@ This repository contains only released user firmware and the machine-readable
 firmware catalog used by the SRT Firmware Updater. Debug builds, manufacturer
 tools, and application source code are not published here.
 
+## Updater downloads
+
+- [macOS 13+ · Intel and Apple Silicon](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest/download/SRT.Firmware.Updater.macOS.dmg)
+- [Windows 10/11 · x64](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest/download/SRT.Firmware.Updater.Windows.exe)
+- [Release notes and checksums](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest)
+
 ## Firmware
 
 | Hardware | Current firmware | File |
@@ -25,3 +31,6 @@ Offizielle öffentliche Downloads für den Slope Reading Trainer.
 Dieses Repository enthält ausschließlich freigegebene Nutzer-Firmware und den
 maschinenlesbaren Firmwarekatalog für den SRT Firmware Updater. Debug-Versionen,
 Herstellerwerkzeuge und Quellcode werden hier nicht veröffentlicht.
+
+Die aktuellen Nutzer-Updater für macOS und Windows stehen oben unter
+**Updater downloads** bereit.
