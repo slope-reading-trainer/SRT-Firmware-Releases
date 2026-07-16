@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "published_at": "2026-07-16T18:20:00+02:00",
+  "firmware": [
+    {
+      "hardware": "S01",
+      "version": "0.92",
+      "version_code": 92,
+      "channel": "release",
+      "filename": "SRT-S01.092.bin",
+      "url": "https://raw.githubusercontent.com/slope-reading-trainer/SRT-Firmware-Releases/main/firmware/SRT-S01.092.bin",
+      "size": 113652,
+      "sha256": "3f7c5bade54dc3ee328bce1394c917e45a781d89d5674aedb274b2be10650637"
+    },
+    {
+      "hardware": "S02",
+      "version": "1.31",
+      "version_code": 131,
+      "channel": "release",
+      "filename": "SRT-S02.131.R.bin",
+      "url": "https://raw.githubusercontent.com/slope-reading-trainer/SRT-Firmware-Releases/main/firmware/SRT-S02.131.R.bin",
+      "size": 164808,
+      "sha256": "200c108281bf02c406f68e6214cf45053853903c33a5535e3ef97a0b1833c8f4"
+    }
+  ]
+}
