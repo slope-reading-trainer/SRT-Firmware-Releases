@@ -17,7 +17,7 @@ tools, and application source code are not published here.
 | Hardware | Current firmware | File |
 | --- | ---: | --- |
 | S01 | 0.92 | `firmware/SRT-S01.092.bin` |
-| S02 | 1.31 | `firmware/SRT-S02.131.bin` |
+| S02 | 1.30 | `firmware/SRT-S02.130.bin` |
 
 The updater must always match the `hardware` field before downloading or
 installing a firmware image. An S01 image must never be installed on S02
