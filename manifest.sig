@@ -2,5 +2,5 @@
   "algorithm": "ecdsa-p256-sha256",
   "key_id": "srt-manifest-2026-01",
   "schema_version": 1,
-  "signature": "XSrClHqa/gM562h0sEUZUVIFNL0UI7t7fPRxaIckfJCZfKHDMgnFfxLCPJq7G1ZSeoUHAQ6OC+IUFNi8JWoI6g=="
+  "signature": "N4DwI147StUrRzmjoxyvlGOF0uUK7Jbjyx7g0m4el5tgQePC51M9RhR67hVCeWtU1jt6yzFbxYn8zdRG1QKkEQ=="
 }
