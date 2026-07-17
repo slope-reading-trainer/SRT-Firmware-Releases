@@ -2,9 +2,8 @@
 
 Official public downloads for the Slope Reading Trainer.
 
-This repository contains only released user firmware and the machine-readable
-firmware catalog used by the SRT Firmware Updater. Debug builds, manufacturer
-tools, and application source code are not published here.
+This repository contains released user firmware and the machine-readable
+firmware catalog used by the SRT Firmware Updater.
 
 ## Updater downloads
 
@@ -28,9 +27,8 @@ hardware, or vice versa. File size and SHA-256 checksum are published in
 
 Offizielle öffentliche Downloads für den Slope Reading Trainer.
 
-Dieses Repository enthält ausschließlich freigegebene Nutzer-Firmware und den
-maschinenlesbaren Firmwarekatalog für den SRT Firmware Updater. Debug-Versionen,
-Herstellerwerkzeuge und Quellcode werden hier nicht veröffentlicht.
+Dieses Repository enthält freigegebene Nutzer-Firmware und den
+maschinenlesbaren Firmwarekatalog für den SRT Firmware Updater.
 
 Die aktuellen Nutzer-Updater für macOS und Windows stehen oben unter
 **Updater downloads** bereit.
