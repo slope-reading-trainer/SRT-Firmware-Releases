@@ -7,8 +7,8 @@ firmware catalog used by the SRT Firmware Updater.
 
 ## Updater downloads
 
-- **macOS: SRT Firmware Updater 2.1.0** · [Download für macOS 13+, Intel und Apple Silicon](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest/download/SRT.Firmware.Updater.macOS.dmg)
-- **Windows: SRT Firmware Updater 2.1.0** · [Download für Windows 10/11 x64](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest/download/SRT.Firmware.Updater.Windows.exe)
+- **macOS: SRT Firmware Updater 2.1.1** · [Download für macOS 13+, Intel und Apple Silicon](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest/download/SRT.Firmware.Updater.macOS.dmg)
+- **Windows: SRT Firmware Updater 2.1.1** · [Download für Windows 10/11 x64](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest/download/SRT.Firmware.Updater.Windows.exe)
 - [Release notes](https://github.com/slope-reading-trainer/SRT-Firmware-Releases/releases/latest)
 
 ## Firmware
