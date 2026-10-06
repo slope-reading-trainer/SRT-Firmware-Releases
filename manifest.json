@@ -14,13 +14,13 @@
     },
     {
       "hardware": "S02",
-      "version": "1.36",
-      "version_code": 136,
+      "version": "1.37",
+      "version_code": 137,
       "channel": "release",
-      "filename": "SRT-S02.136.bin",
-      "url": "https://raw.githubusercontent.com/slope-reading-trainer/SRT-Firmware-Releases/main/firmware/SRT-S02.136.bin",
+      "filename": "SRT-S02.137.bin",
+      "url": "https://raw.githubusercontent.com/slope-reading-trainer/SRT-Firmware-Releases/main/firmware/SRT-S02.137.bin",
       "size": 164492,
-      "sha256": "bf4d1a3c30f33cd28888d74d74569e6544c37e8f9bb6ecc6a8da9fb5e19171f2"
+      "sha256": "02ad337f0939c9b0dc35d8e2130cec4e85744454ec34d24f636db94098228a8b"
     }
   ]
 }
